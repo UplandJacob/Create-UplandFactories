@@ -1,0 +1,249 @@
+{
+  "minecraft": {
+    "version": "1.19.2",
+    "modLoaders": [
+      {
+        "id": "forge-43.2.8",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Create - Upland Factories",
+  "version": "1.0.0",
+  "author": "",
+  "files": [
+    {
+      "projectID": 652202,
+      "fileID": 4371256,
+      "required": true
+    },
+    {
+      "projectID": 531761,
+      "fileID": 4442591,
+      "required": true
+    },
+    {
+      "projectID": 511965,
+      "fileID": 3944669,
+      "required": true
+    },
+    {
+      "projectID": 328085,
+      "fileID": 4371809,
+      "required": true
+    },
+    {
+      "projectID": 649832,
+      "fileID": 4519862,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 3972423,
+      "required": true
+    },
+    {
+      "projectID": 69163,
+      "fileID": 4382371,
+      "required": true
+    },
+    {
+      "projectID": 688231,
+      "fileID": 4512539,
+      "required": true
+    },
+    {
+      "projectID": 665658,
+      "fileID": 4498536,
+      "required": true
+    },
+    {
+      "projectID": 439890,
+      "fileID": 4526961,
+      "required": true
+    },
+    {
+      "projectID": 630620,
+      "fileID": 4271606,
+      "required": true
+    },
+    {
+      "projectID": 233071,
+      "fileID": 4513858,
+      "required": true
+    },
+    {
+      "projectID": 670986,
+      "fileID": 4513260,
+      "required": true
+    },
+    {
+      "projectID": 361579,
+      "fileID": 4505309,
+      "required": true
+    },
+    {
+      "projectID": 252848,
+      "fileID": 4118390,
+      "required": true
+    },
+    {
+      "projectID": 268560,
+      "fileID": 4385637,
+      "required": true
+    },
+    {
+      "projectID": 448233,
+      "fileID": 4404949,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 4494410,
+      "required": true
+    },
+    {
+      "projectID": 69162,
+      "fileID": 4385216,
+      "required": true
+    },
+    {
+      "projectID": 509285,
+      "fileID": 4519287,
+      "required": true
+    },
+    {
+      "projectID": 240630,
+      "fileID": 4440341,
+      "required": true
+    },
+    {
+      "projectID": 345425,
+      "fileID": 4385641,
+      "required": true
+    },
+    {
+      "projectID": 239197,
+      "fileID": 4528883,
+      "required": true
+    },
+    {
+      "projectID": 682881,
+      "fileID": 4469704,
+      "required": true
+    },
+    {
+      "projectID": 574856,
+      "fileID": 4448157,
+      "required": true
+    },
+    {
+      "projectID": 419699,
+      "fileID": 4521273,
+      "required": true
+    },
+    {
+      "projectID": 688768,
+      "fileID": 4504113,
+      "required": true
+    },
+    {
+      "projectID": 661058,
+      "fileID": 3968990,
+      "required": true
+    },
+    {
+      "projectID": 457570,
+      "fileID": 4462837,
+      "required": true
+    },
+    {
+      "projectID": 404468,
+      "fileID": 4477315,
+      "required": true
+    },
+    {
+      "projectID": 314906,
+      "fileID": 4496315,
+      "required": true
+    },
+    {
+      "projectID": 247560,
+      "fileID": 4027228,
+      "required": true
+    },
+    {
+      "projectID": 686100,
+      "fileID": 4379729,
+      "required": true
+    },
+    {
+      "projectID": 223794,
+      "fileID": 4498125,
+      "required": true
+    },
+    {
+      "projectID": 222880,
+      "fileID": 4382373,
+      "required": true
+    },
+    {
+      "projectID": 526854,
+      "fileID": 3836016,
+      "required": true
+    },
+    {
+      "projectID": 362528,
+      "fileID": 3941638,
+      "required": true
+    },
+    {
+      "projectID": 563928,
+      "fileID": 4205732,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 3871353,
+      "required": true
+    },
+    {
+      "projectID": 633412,
+      "fileID": 4162940,
+      "required": true
+    },
+    {
+      "projectID": 268567,
+      "fileID": 4385640,
+      "required": true
+    },
+    {
+      "projectID": 256717,
+      "fileID": 4153347,
+      "required": true
+    },
+    {
+      "projectID": 494206,
+      "fileID": 4024446,
+      "required": true
+    },
+    {
+      "projectID": 225608,
+      "fileID": 3922622,
+      "required": true
+    },
+    {
+      "projectID": 268566,
+      "fileID": 4385639,
+      "required": true
+    },
+    {
+      "projectID": 404465,
+      "fileID": 4500548,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
