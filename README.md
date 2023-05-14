@@ -2,6 +2,7 @@
 
 The modpack is also available on my
 [CurseForge page](https://legacy.curseforge.com/minecraft/modpacks/create-upland-factories)
+
 **NOTE:** not all files are in **github** yet
 
 The game starts like vanilla but with more biomes and ores. As the player progresses, more advanced ores and machinery will be used.
