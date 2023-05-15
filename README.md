@@ -1,14 +1,21 @@
- ***Create - Upland Factories*** is a factory building modpack focused on the **Create mod**, **Mekanism**, and **Applied Energistics 2**.
 
-The modpack is also available on my
-[CurseForge page](https://legacy.curseforge.com/minecraft/modpacks/create-upland-factories)
+# **Create - Upland Factories**
+**Create - Upland Factories** is a factory building modpack focused on the **Create mod**, **Mekanism**, and **Applied Energistics 2**.
 
-**NOTE:** not all files are in **github** yet
+### **Gameplay:**
 
-The game starts like vanilla but with more biomes and ores. As the player progresses, more advanced ores and machinery will be used.
+The game starts like vanilla but with more biomes (with Oh the Biomes You’ll Go) and ores (like zinc). As the player progresses, more advanced ores and machinery be used.
+
+### **Features:**
+
+**Minimap**: FTB chunks includes a minimap in the top of the player's screen. Here the player can claim chunks where mob griefing (creeper damage and enderman moving blocks) and explosion damage is off.
+
+**Crafting helper:** JEI is a GUI that helps the player with crafting recipes and progression on the modpack.
+
+**Machines**: The Create Mod adds mechanical machines to automate almost anything in the game. Mekanism adds more nachos that are used to automate more complicated items.  
  
-### **All mods**
-
+**NOTE:** not all files are in **github** yet
+## **All mods**
 
 -   [Create : Misc & Things (by to0pa_fr)](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things)
 -   [Balm (Forge Edition) (by BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/balm)
