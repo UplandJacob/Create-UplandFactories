@@ -1,65 +1,168 @@
-
-# **Create - Upland Factories**
-**Create - Upland Factories** is a factory building modpack focused on the **Create mod**, **Mekanism**, and **Applied Energistics 2**.
-
-### **Gameplay:**
-
-The game starts like vanilla but with more biomes (with Oh the Biomes You’ll Go) and ores (like zinc). As the player progresses, more advanced ores and machinery be used.
-
-### **Features:**
-
-**Minimap**: FTB chunks includes a minimap in the top of the player's screen. Here the player can claim chunks where mob griefing (creeper damage and enderman moving blocks) and explosion damage is off.
-
-**Crafting helper:** JEI is a GUI that helps the player with crafting recipes and progression on the modpack.
-
-**Machines**: The Create Mod adds mechanical machines to automate almost anything in the game. Mekanism adds more nachos that are used to automate more complicated items.  
- 
-**NOTE:** not all files are in **github** yet
-## **All mods**
-
--   [Create : Misc & Things (by to0pa_fr)](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things)
--   [Balm (Forge Edition) (by BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/balm)
--   [More Mekanism Processing (by 지젤쟝다)](https://www.curseforge.com/minecraft/mc-mods/more-mekanism-processing)
--   [Create (by simibubi)](https://www.curseforge.com/minecraft/mc-mods/create)
--   [Create Ore Excavation (by tom54541)](https://www.curseforge.com/minecraft/mc-mods/create-ore-excavation)
--   [Cloth Config API (Fabric/Forge) (by shedaniel)](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
--   [Thermal Expansion (by TeamCoFH)](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
--   [Create: Steam 'n' Rails (by mattentosh)](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails)
--   [Canary (by AbdElAziz333)](https://www.curseforge.com/minecraft/mc-mods/canary)
--   [Create Crafts & Additions (by MRHminer)](https://www.curseforge.com/minecraft/mc-mods/createaddition)
--   [Fastload (by StockiesLad)](https://www.curseforge.com/minecraft/mc-mods/fastload)
--   [Crafting Tweaks (by BlayTheNinth)](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
--   [Saturn (by AbdElAziz333)](https://www.curseforge.com/minecraft/mc-mods/saturn)
--   [spark (by Iucko)](https://www.curseforge.com/minecraft/mc-mods/spark)
--   [Nature's Compass (by Chaosyr)](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
--   [Mekanism (by bradyaidanc)](https://www.curseforge.com/minecraft/mc-mods/mekanism)
--   [Entity Culling Fabric/Forge (by tr7zw)](https://www.curseforge.com/minecraft/mc-mods/entityculling)
--   [Just Enough Items (JEI) (by mezz)](https://www.curseforge.com/minecraft/mc-mods/jei)
--   [CoFH Core (by TeamCoFH)](https://www.curseforge.com/minecraft/mc-mods/cofh-core)
--   [Create Deco (by talrey)](https://www.curseforge.com/minecraft/mc-mods/create-deco)
--   [Just Enough Resources (JER) (by way2muchnoise)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
--   [Mekanism Additions (by bradyaidanc)](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
--   [CraftTweaker (by Jaredlll08)](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
--   [Pluto (by AbdElAziz333)](https://www.curseforge.com/minecraft/mc-mods/pluto)
--   [Rubidium (by Asek3)](https://www.curseforge.com/minecraft/mc-mods/rubidium)
--   [Architectury API (Fabric/Forge) (by shedaniel)](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
--   [Create Enchantment Industry (by DragonsPlus)](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry)
--   [Additional Blocks: Vertical Edition (by CiFru_)](https://www.curseforge.com/minecraft/mc-mods/additional-blocks-vertical-edition)
--   [Configured (by MrCrayfish)](https://www.curseforge.com/minecraft/mc-mods/configured)
--   [FTB Teams (Forge) (by FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)
--   [FTB Chunks (Forge) (by FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
--   [Oh The Biomes You'll Go (by AOCAWOL)](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
--   [Create Mechanical Extruder (by oierbravo_mc)](https://www.curseforge.com/minecraft/mc-mods/create-mechanical-extruder)
--   [Applied Energistics 2 (by AlgorithmX2)](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
--   [Thermal Foundation (by TeamCoFH)](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
--   [Starlight (Forge) (by Spottedstar)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
--   [Decorative Blocks (by stohun)](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
--   [TerraBlender (Forge) (by TheAdubbz)](https://www.curseforge.com/minecraft/mc-mods/terrablender)
--   [Mouse Tweaks (by YaLTeR)](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
--   [Smooth Boot (Reloaded) (by AbdElAziz333)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-reloaded)
--   [Mekanism Tools (by bradyaidanc)](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
--   [Clumps (by Jaredlll08)](https://www.curseforge.com/minecraft/mc-mods/clumps)
--   [Create Chunkloading (by embeddedt)](https://www.curseforge.com/minecraft/mc-mods/create-chunkloading)
--   [WorldEdit (by sk89q)](https://www.curseforge.com/minecraft/mc-mods/worldedit)
--   [Mekanism Generators (by bradyaidanc)](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
--   [FTB Library (Forge) (by FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
+<h1 id="create---upland-factories">
+  <strong>Create - Upland Factories</strong>
+</h1>
+<p>
+  <strong>Create - Upland Factories</strong> is a factory building modpack focused on the <strong>Create mod</strong>, <strong>Mekanism</strong>, and <strong>Applied Energistics 2</strong>.
+</p>
+<h3 id="gameplay">
+  <strong>Gameplay:</strong>
+</h3>
+<p>The game starts like vanilla but with more biomes (with Oh the Biomes You’ll Go) and ores (like zinc). As the player progresses, more advanced ores and machinery be used.</p>
+<h3 id="features">
+  <strong>Features:</strong>
+</h3>
+<p>
+  <strong>Minimap</strong>: FTB chunks includes a minimap in the top of the player&#39;s screen. Here the player can claim chunks where mob griefing (creeper damage and enderman moving blocks) and explosion damage is off.
+</p>
+<p>
+  <strong>Crafting helper:</strong> JEI is a GUI that helps the player with crafting recipes and progression on the modpack.
+</p>
+<p>
+  <strong>Machines</strong>: The Create Mod adds mechanical machines to automate almost anything in the game. Mekanism adds more nachos that are used to automate more complicated items.
+</p>
+<p>
+  <strong>NOTE:</strong> not all files are in <strong>github</strong> yet
+</p>
+<h2 id="all-mods">
+  <strong>All mods</strong>
+</h2>
+<ul>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things">Create : Misc &amp; Things (by to0pa_fr)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/balm">Balm (Forge Edition) (by BlayTheNinth)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/more-mekanism-processing">More Mekanism Processing (by 지젤쟝다)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/create">Create (by simibubi)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/create-ore-excavation">Create Ore Excavation (by tom54541)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/cloth-config">Cloth Config API (Fabric/Forge) (by shedaniel)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/thermal-expansion">Thermal Expansion (by TeamCoFH)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails">Create: Steam &#39;n&#39; Rails (by mattentosh)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/canary">Canary (by AbdElAziz333)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/createaddition">Create Crafts &amp; Additions (by MRHminer)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/fastload">Fastload (by StockiesLad)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks">Crafting Tweaks (by BlayTheNinth)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/saturn">Saturn (by AbdElAziz333)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/spark">spark (by Iucko)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/natures-compass">Nature&#39;s Compass (by Chaosyr)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/mekanism">Mekanism (by bradyaidanc)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/entityculling">Entity Culling Fabric/Forge (by tr7zw)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/jei">Just Enough Items (JEI) (by mezz)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/cofh-core">CoFH Core (by TeamCoFH)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/create-deco">Create Deco (by talrey)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer">Just Enough Resources (JER) (by way2muchnoise)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/mekanism-additions">Mekanism Additions (by bradyaidanc)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/crafttweaker">CraftTweaker (by Jaredlll08)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/pluto">Pluto (by AbdElAziz333)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/rubidium">Rubidium (by Asek3)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/architectury-api">Architectury API (Fabric/Forge) (by shedaniel)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry">Create Enchantment Industry (by DragonsPlus)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/additional-blocks-vertical-edition">Additional Blocks: Vertical Edition (by CiFru_)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/configured">Configured (by MrCrayfish)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge">FTB Teams (Forge) (by FTB)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge">FTB Chunks (Forge) (by FTB)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go">Oh The Biomes You&#39;ll Go (by AOCAWOL)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/create-mechanical-extruder">Create Mechanical Extruder (by oierbravo_mc)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2">Applied Energistics 2 (by AlgorithmX2)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/thermal-foundation">Thermal Foundation (by TeamCoFH)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/starlight-forge">Starlight (Forge) (by Spottedstar)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/decorative-blocks">Decorative Blocks (by stohun)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/terrablender">TerraBlender (Forge) (by TheAdubbz)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks">Mouse Tweaks (by YaLTeR)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/smooth-boot-reloaded">Smooth Boot (Reloaded) (by AbdElAziz333)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/mekanism-tools">Mekanism Tools (by bradyaidanc)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/clumps">Clumps (by Jaredlll08)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/create-chunkloading">Create Chunkloading (by embeddedt)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/worldedit">WorldEdit (by sk89q)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/mekanism-generators">Mekanism Generators (by bradyaidanc)</a>
+  </li>
+  <li>
+    <a href="https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge">FTB Library (Forge) (by FTB)</a>
+  </li>
+</ul>
